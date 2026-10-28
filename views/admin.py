@@ -237,14 +237,22 @@ def _connection_block(meta: dict) -> None:
     with c3:
         st.caption(f"Synced {source.age_label(meta['fetched_at'])}")
 
+    used_id = meta.get("sheet_id") or config.SHEET_ID
+    if used_id != config.SHEET_ID:
+        st.warning(
+            "The primary workbook is not publicly readable, so the dashboard is using "
+            f"the fallback file `{used_id}`. Set the new file to "
+            '"Anyone with the link → Viewer" to switch to it.'
+        )
+
     st.markdown(
         f"**Source** · {meta['source']}  \n"
-        f"**Sheet id** · `{config.SHEET_ID}`  \n"
+        f"**Sheet id** · `{used_id}`  \n"
         f"**Tab** · `{config.MASTER_SHEET_NAME}`  \n"
         f"**Auto refresh** · every {config.CACHE_TTL_SECONDS // 60} minutes"
     )
     st.markdown(
-        f"[Open the workbook](https://docs.google.com/spreadsheets/d/{config.SHEET_ID}/edit)"
+        f"[Open the workbook](https://docs.google.com/spreadsheets/d/{used_id}/edit)"
     )
 
     with st.expander("Connect uploads (one-time setup)"):

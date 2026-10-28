@@ -1,211 +1,525 @@
-﻿"Date","Location","Importer","Origin","Coal Grade / Cal (kcal)","Mine","Quantity (MT)","Bulk Purchase Rate (BDT/MT)","Sale / Retail Rate (BDT/MT)","Status","Remarks","Vessel Name","Vessel Qty (MT)","Upcoming # (auto)","Is Upcoming (auto)"
-"2026-10-11","Nagarbari","Sahara","Indonesia","","","6000.0","","24000.0","","Old stock","","","","0"
-"2026-10-11","Nagarbari","Sahara","Indonesia","","","1000.0","","25000.0","","New arrival","","","","0"
-"2026-10-11","Nagarbari","Sahara","South Africa","","","4000.0","","20000.0","","Old stock","","","","0"
-"2026-10-11","Nagarbari","Sahara","South Africa","","","0.0","","0.0","","Vessel up coming","","","1","1"
-"2026-10-11","Nagarbari","Noapara Traders","Indonesia","","","3000.0","","25500.0","","Old stock","","","","0"
-"2026-10-11","Nagarbari","Abul Khair","Indonesia","","","3000.0","","25000.0","","Old stock","","","","0"
-"2026-10-11","Nagarbari","M/S Soinik Enterprise","South Africa","","","5000.0","","20500.0","","New arrival","","","","0"
-"2026-10-11","Nagarbari","Falauddin Ali Ahmed","South Africa","","","5000.0","","20500.0","","New arrival","","","","0"
-"2026-10-11","Nagarbari","Mosharrof","South Africa","","","0.0","","0.0","","Vessel up coming","","","2","1"
-"2026-10-11","Nagarbari","Green Trading","South Africa","","","0.0","","0.0","","Vessel up coming","","","3","1"
-"2026-10-11","Nagarbari","Meghna Group","South Africa","","","1000.0","","20000.0","","New arrival","","","","0"
-"2026-10-11","Nagarbari","Shorkar","Indonesia","","","0.0","","0.0","","Vessel up coming","","","4","1"
-"2026-10-11","Noapara","Nabil Group","South Africa","","","20000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Noapara","Noapara Traders","South Africa","","","25000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Noapara","Noapara Traders","Indonesia","","","20000.0","","24000.0","","Old stock","","","","0"
-"2026-10-11","Noapara","Falauddin Ali Ahmed","South Africa","","","15000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Noapara","Mostofa Zaman","South Africa","","","0.0","","0.0","","Vessel up coming","","","5","1"
-"2026-10-11","Noapara","IRS Intr","Indonesia","Cal 5200-5500","PT Berau Coal","20000.0","","22800.0","","New arrival","","","","0"
-"2026-10-11","Noapara","Meghna Group","South Africa","","","5000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Noapara","TST","Indonesia","","","10000.0","","21000.0","","Old stock","","","","0"
-"2026-10-11","Noapara","TST","India","","","3000.0","","23000.0","","New arrival","","","","0"
-"2026-10-11","Noapara","TST","Indonesia","Cal 5500-5600","MSJ","0.0","","0.0","","Vessel up coming","","","6","1"
-"2026-10-11","Noapara","Shorkar","South Africa","","","0.0","","0.0","","Vessel up coming","","","7","1"
-"2026-10-11","Noapara","Sahara","South Africa","","","20000.0","","19000.0","","Old stock","","","","0"
-"2026-10-11","Noapara","Sahara","Indonesia","","","12000.0","","23800.0","","New arrival","","","","0"
-"2026-10-11","Noapara","Abul Khair","South Africa","","","10000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Noapara","M/S Soinik Enterprise","South Africa","","","3000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Noapara","Mosharrof","South Africa","","","","","","","Vessel up coming","","","8","1"
-"2026-10-11","Noapara","Sheikh Brothers","South Africa","","","25000.0","","19000.0","","Vessel up coming","","","9","1"
-"2026-10-11","Noapara","Sheikh Brothers","Indonesia","","","2000.0","","19000.0","","Old stock","","","","0"
-"2026-10-11","Noapara","Modina Trading","South Africa","","","","","","","Vessel up coming","","","10","1"
-"2026-10-11","Pagla","Sahara","South Africa","","","3500.0","","19000.0","","Old stock","","","","0"
-"2026-10-11","Pagla","Sahara","Indonesia","","","2500.0","","24500.0","","New arrival","","","","0"
-"2026-10-11","Pagla","Noapara Traders","South Africa","","","5000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Pagla","Noapara Traders","Indonesia","","","5000.0","","24000.0","","Old stock","","","","0"
-"2026-10-11","Pagla","Nabil Group","South Africa","","","3000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Kaliganj","Nabil Group","Indonesia","","","2000.0","","23500.0","","Old stock","","","","0"
-"2026-10-11","Kaliganj","Meghna Group","South Africa","","","2000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Kaliganj","Meghna Group","Indonesia","","","0.0","","0.0","","Vessel up coming","","","11","1"
-"2026-10-11","Kaliganj","Sahara","South Africa","","","2500.0","","19000.0","","Old stock","","","","0"
-"2026-10-11","Kaliganj","Sahara","Indonesia","","","5000.0","","24000.0","","New arrival","","","","0"
-"2026-10-11","Kaliganj","TST","Indonesia","","","3500.0","","21000.0","","Old stock","","","","0"
-"2026-10-11","Kaliganj","Shorkar","South Africa","","","0.0","","0.0","","Vessel up coming","","","12","1"
-"2026-10-11","Kaliganj","Abul Khair","Indonesia","","","2500.0","","23000.0","","Old stock","","","","0"
-"2026-10-11","Kaliganj","Noapara Traders","South Africa","","","12000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Kaliganj","M/S Soinik Enterprise","South Africa","","","5000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Kaliganj","Mosharrof","South Africa","","","0.0","","0.0","","Vessel up coming","","","13","1"
-"2026-10-11","Kaliganj","Modina Trading","South Africa","","","0.0","","0.0","","Vessel up coming","","","14","1"
-"2026-10-11","Kaliganj","Sabisa","South Africa","","","0.0","","0.0","","New arrival","","","","0"
-"2026-10-11","Kaliganj","Ahmed Corporation","Indonesia","","","5000.0","","23000.0","","New arrival","","","","0"
-"2026-10-11","Kaliganj","Ahmed Corporation","South Africa","","","7000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Kaliganj","Falauddin Ali Ahmed","South Africa","","","600.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Gabtoli","Shara","South Africa","","","20000.0","","18500.0","","Old stock","","","","0"
-"2026-10-11","Gabtoli","Shara","Indonesia","","","10000.0","","24000.0","","New arrival","","","","0"
-"2026-10-11","Gabtoli","Noapara Traders","South Africa","","","10000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Gabtoli","Nabil Group","South Africa","","","2000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Gabtoli","Abul Khair","South Africa","","","4000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Gabtoli","Abul Khair","Indonesia","","","2000.0","","23000.0","","Old stock","","","","0"
-"2026-10-11","Daudkandi","Nabil Group","South Africa","","","8000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Daudkandi","Meghna Group","South Africa","","","5000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Daudkandi","Abul Khair","South Africa","","","8000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Daudkandi","Soinik Traders","South Africa","","","8000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Daudkandi","Mostofa Zaman","South Africa","","","0.0","","19000.0","","Vessel up coming","","","15","1"
-"2026-10-11","Daudkandi","Shorkar","South Africa","","","0.0","","0.0","","Vessel up coming","","","16","1"
-"2026-10-11","Daudkandi","Mosharrof","South Africa","","","0.0","","19000.0","","Vessel up coming","","","17","1"
-"2026-10-11","Daudkandi","Modina Trading","South Africa","","","0.0","","19000.0","","Vessel up coming","","","18","1"
-"2026-10-11","Daudkandi","Sabisa","South Africa","","","6000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Daudkandi","Falauddin Ali Ahmed","South Africa","","","10000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Daudkandi","Shara","South Africa","","","6000.0","","19000.0","","Old stock","","","","0"
-"2026-10-11","Chattogram","Shara","South Africa","","","20000.0","","18500.0","","Old stock","","","","0"
-"2026-10-11","Chattogram","Shara","Indonesia","","","10000.0","","24000.0","","New arrival","","","","0"
-"2026-10-11","Chattogram","Sabisa","South Africa","","","12000.0","","18600.0","","New arrival","","","","0"
-"2026-10-11","Chattogram","Meghna Group","South Africa","","","10000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Chattogram","Meghna Group","Indonesia","","","0.0","","0.0","","Vessel up coming","","","19","1"
-"2026-10-11","Chattogram","Falauddin Ali Ahmed","South Africa","","","15000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Chattogram","Shorkar","South Africa","","","0.0","","0.0","","Vessel up coming","","","20","1"
-"2026-10-11","Chattogram","Modina Trading","South Africa","","","0.0","","0.0","","Vessel up coming","","","21","1"
-"2026-10-11","Chattogram","Abul Khair","Indonesia","","","0.0","","0.0","","Vessel up coming","","","22","1"
-"2026-10-11","Bhaira","Falauddin Ali Ahmed","South Africa","","","7000.0","","19000.0","","Old stock","","","","0"
-"2026-10-11","Bhaira","Shara","South Africa","","","3000.0","","18000.0","","Old stock","","","","0"
-"2026-10-11","Bhaira","Shara","Indonesia","","","7000.0","","24000.0","","New arrival","","","","0"
-"2026-10-11","Bhaira","Shorkar","Indonesia","","","3000.0","","20000.0","","Old stock","","","","0"
-"2026-10-11","Bhaira","Falauddin Ali Ahmed","South Africa","","","10000.0","","19000.0","","New arrival","","","","0"
-"2026-10-11","Bhaira","Falauddin Ali Ahmed","India","","","7000.0","","22000.0","","New arrival","","","","0"
-"2026-10-18","Noapara","Nabil Group","South Africa","","","25000.0","","20000.0","Dumped","New arrival","","","","0"
-"2026-10-18","Noapara","Noapara Traders","South Africa","","","25000.0","","20000.0","Dumped","New arrival","","","",""
-"2026-10-18","Noapara","Noapara Traders","Indonesia","","","19000.0","","25000.0","Dumped","Old stock","","","",""
-"2026-10-18","Noapara","Falauddin Ali Ahmed","South Africa","","","25000.0","","20500.0","Dumped","New arrival","","","",""
-"2026-10-18","Noapara","Mostofa Zamana","South Africa","","","0.0","","0.0","In-transit","Vessel up coming","","","",""
-"2026-10-18","Noapara","IRS Intr","Indonesia","","","30000.0","","22800.0","Dumped","New arrival","","","",""
-"2026-10-18","Noapara","Meghna Group","South Africa","","","5000.0","","20000.0","Dumped","New arrival","","","",""
-"2026-10-18","Noapara","TST","Indonesia","","","9000.0","","21000.0","Dumped","Old stock","","","",""
-"2026-10-18","Noapara","TST","India","","","3000.0","","22500.0","Dumped","New arrival","","","",""
-"2026-10-18","Noapara","TST","Indonesia","","","0.0","","0.0","In-transit","Vessel up coming","","","",""
-"2026-10-18","Noapara","Shorkar","South Africa","","","0.0","","0.0","In-transit","Vessel up coming","","","",""
-"2026-10-18","Noapara","Sahara Entr","South Africa","","","18000.0","","19000.0","Dumped","Old stock","","","",""
-"2026-10-18","Noapara","Sahara Entr","Indonesia","","","25000.0","","24500.0","Dumped","New arrival","","","",""
-"2026-10-18","Noapara","Abul Khair","South Africa","","","8000.0","","20000.0","Dumped","New arrival","","","",""
-"2026-10-18","Noapara","Soinik Traders","South Africa","","","3000.0","","20000.0","Dumped","New arrival","","","",""
-"2026-10-18","Noapara","Mosharrof Entr","South Africa","","","20000.0","","20000.0","In-transit","Vessel up coming","","","",""
-"2026-10-18","Noapara","Sheikh Bhorthers","South Africa","","","25000.0","","20500.0","Dumped","Vessel up coming","","","",""
-"2026-10-18","Noapara","Sheikh Bhorthers","Indonesia","","","2000.0","","19500.0","Dumped","Old stock","","","",""
-"2026-10-18","Noapara","Modina Trading","South Africa","","","","","","In-transit","Vessel up coming","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","",""
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
-"2026-10-18","","","","","","","","","","","","","","0"
+﻿Date,Location,Importer,Origin,Coal Grade / Cal (kcal),Mine,Quantity (MT),Bulk Purchase Rate (BDT/MT),Sale / Retail Rate (BDT/MT),Status,Remarks,Vessel Name,Vessel Qty (MT),Upcoming # (auto),Is Upcoming (auto)
+2026-10-11,Nagarbari,Sahara,Indonesia,,,6000.0,,24000.0,,Old stock,,,,0.0
+2026-10-11,Nagarbari,Sahara,Indonesia,,,1000.0,,25000.0,,New arrival,,,,0.0
+2026-10-11,Nagarbari,Sahara,South Africa,,,4000.0,,20000.0,,Old stock,,,,0.0
+2026-10-11,Nagarbari,Sahara,South Africa,,,0.0,,0.0,,Vessel up coming,,,1.0,1.0
+2026-10-11,Nagarbari,Noapara Traders,Indonesia,,,3000.0,,25500.0,,Old stock,,,,0.0
+2026-10-11,Nagarbari,Abul Khair,Indonesia,,,3000.0,,25000.0,,Old stock,,,,0.0
+2026-10-11,Nagarbari,M/S Soinik Enterprise,South Africa,,,5000.0,,20500.0,,New arrival,,,,0.0
+2026-10-11,Nagarbari,Falauddin Ali Ahmed,South Africa,,,5000.0,,20500.0,,New arrival,,,,0.0
+2026-10-11,Nagarbari,Mosharrof,South Africa,,,0.0,,0.0,,Vessel up coming,,,2.0,1.0
+2026-10-11,Nagarbari,Green Trading,South Africa,,,0.0,,0.0,,Vessel up coming,,,3.0,1.0
+2026-10-11,Nagarbari,Meghna Group,South Africa,,,1000.0,,20000.0,,New arrival,,,,0.0
+2026-10-11,Nagarbari,Shorkar,Indonesia,,,0.0,,0.0,,Vessel up coming,,,4.0,1.0
+2026-10-11,Noapara,Nabil Group,South Africa,,,20000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Noapara,Noapara Traders,South Africa,,,25000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Noapara,Noapara Traders,Indonesia,,,20000.0,,24000.0,,Old stock,,,,0.0
+2026-10-11,Noapara,Falauddin Ali Ahmed,South Africa,,,15000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Noapara,Mostofa Zaman,South Africa,,,0.0,,0.0,,Vessel up coming,,,5.0,1.0
+2026-10-11,Noapara,IRS Intr,Indonesia,Cal 5200-5500,PT Berau Coal,20000.0,,22800.0,,New arrival,,,,0.0
+2026-10-11,Noapara,Meghna Group,South Africa,,,5000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Noapara,TST,Indonesia,,,10000.0,,21000.0,,Old stock,,,,0.0
+2026-10-11,Noapara,TST,India,,,3000.0,,23000.0,,New arrival,,,,0.0
+2026-10-11,Noapara,TST,Indonesia,Cal 5500-5600,MSJ,0.0,,0.0,,Vessel up coming,,,6.0,1.0
+2026-10-11,Noapara,Shorkar,South Africa,,,0.0,,0.0,,Vessel up coming,,,7.0,1.0
+2026-10-11,Noapara,Sahara,South Africa,,,20000.0,,19000.0,,Old stock,,,,0.0
+2026-10-11,Noapara,Sahara,Indonesia,,,12000.0,,23800.0,,New arrival,,,,0.0
+2026-10-11,Noapara,Abul Khair,South Africa,,,10000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Noapara,M/S Soinik Enterprise,South Africa,,,3000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Noapara,Mosharrof,South Africa,,,,,,,Vessel up coming,,,8.0,1.0
+2026-10-11,Noapara,Sheikh Brothers,South Africa,,,25000.0,,19000.0,,Vessel up coming,,,9.0,1.0
+2026-10-11,Noapara,Sheikh Brothers,Indonesia,,,2000.0,,19000.0,,Old stock,,,,0.0
+2026-10-11,Noapara,Modina Trading,South Africa,,,,,,,Vessel up coming,,,10.0,1.0
+2026-10-11,Pagla,Sahara,South Africa,,,3500.0,,19000.0,,Old stock,,,,0.0
+2026-10-11,Pagla,Sahara,Indonesia,,,2500.0,,24500.0,,New arrival,,,,0.0
+2026-10-11,Pagla,Noapara Traders,South Africa,,,5000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Pagla,Noapara Traders,Indonesia,,,5000.0,,24000.0,,Old stock,,,,0.0
+2026-10-11,Pagla,Nabil Group,South Africa,,,3000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Kaliganj,Nabil Group,Indonesia,,,2000.0,,23500.0,,Old stock,,,,0.0
+2026-10-11,Kaliganj,Meghna Group,South Africa,,,2000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Kaliganj,Meghna Group,Indonesia,,,0.0,,0.0,,Vessel up coming,,,11.0,1.0
+2026-10-11,Kaliganj,Sahara,South Africa,,,2500.0,,19000.0,,Old stock,,,,0.0
+2026-10-11,Kaliganj,Sahara,Indonesia,,,5000.0,,24000.0,,New arrival,,,,0.0
+2026-10-11,Kaliganj,TST,Indonesia,,,3500.0,,21000.0,,Old stock,,,,0.0
+2026-10-11,Kaliganj,Shorkar,South Africa,,,0.0,,0.0,,Vessel up coming,,,12.0,1.0
+2026-10-11,Kaliganj,Abul Khair,Indonesia,,,2500.0,,23000.0,,Old stock,,,,0.0
+2026-10-11,Kaliganj,Noapara Traders,South Africa,,,12000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Kaliganj,M/S Soinik Enterprise,South Africa,,,5000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Kaliganj,Mosharrof,South Africa,,,0.0,,0.0,,Vessel up coming,,,13.0,1.0
+2026-10-11,Kaliganj,Modina Trading,South Africa,,,0.0,,0.0,,Vessel up coming,,,14.0,1.0
+2026-10-11,Kaliganj,Sabisa,South Africa,,,0.0,,0.0,,New arrival,,,,0.0
+2026-10-11,Kaliganj,Ahmed Corporation,Indonesia,,,5000.0,,23000.0,,New arrival,,,,0.0
+2026-10-11,Kaliganj,Ahmed Corporation,South Africa,,,7000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Kaliganj,Falauddin Ali Ahmed,South Africa,,,600.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Gabtoli,Shara,South Africa,,,20000.0,,18500.0,,Old stock,,,,0.0
+2026-10-11,Gabtoli,Shara,Indonesia,,,10000.0,,24000.0,,New arrival,,,,0.0
+2026-10-11,Gabtoli,Noapara Traders,South Africa,,,10000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Gabtoli,Nabil Group,South Africa,,,2000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Gabtoli,Abul Khair,South Africa,,,4000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Gabtoli,Abul Khair,Indonesia,,,2000.0,,23000.0,,Old stock,,,,0.0
+2026-10-11,Daudkandi,Nabil Group,South Africa,,,8000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Daudkandi,Meghna Group,South Africa,,,5000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Daudkandi,Abul Khair,South Africa,,,8000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Daudkandi,Soinik Traders,South Africa,,,8000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Daudkandi,Mostofa Zaman,South Africa,,,0.0,,19000.0,,Vessel up coming,,,15.0,1.0
+2026-10-11,Daudkandi,Shorkar,South Africa,,,0.0,,0.0,,Vessel up coming,,,16.0,1.0
+2026-10-11,Daudkandi,Mosharrof,South Africa,,,0.0,,19000.0,,Vessel up coming,,,17.0,1.0
+2026-10-11,Daudkandi,Modina Trading,South Africa,,,0.0,,19000.0,,Vessel up coming,,,18.0,1.0
+2026-10-11,Daudkandi,Sabisa,South Africa,,,6000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Daudkandi,Falauddin Ali Ahmed,South Africa,,,10000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Daudkandi,Shara,South Africa,,,6000.0,,19000.0,,Old stock,,,,0.0
+2026-10-11,Chattogram,Shara,South Africa,,,20000.0,,18500.0,,Old stock,,,,0.0
+2026-10-11,Chattogram,Shara,Indonesia,,,10000.0,,24000.0,,New arrival,,,,0.0
+2026-10-11,Chattogram,Sabisa,South Africa,,,12000.0,,18600.0,,New arrival,,,,0.0
+2026-10-11,Chattogram,Meghna Group,South Africa,,,10000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Chattogram,Meghna Group,Indonesia,,,0.0,,0.0,,Vessel up coming,,,19.0,1.0
+2026-10-11,Chattogram,Falauddin Ali Ahmed,South Africa,,,15000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Chattogram,Shorkar,South Africa,,,0.0,,0.0,,Vessel up coming,,,20.0,1.0
+2026-10-11,Chattogram,Modina Trading,South Africa,,,0.0,,0.0,,Vessel up coming,,,21.0,1.0
+2026-10-11,Chattogram,Abul Khair,Indonesia,,,0.0,,0.0,,Vessel up coming,,,22.0,1.0
+2026-10-11,Bhaira,Falauddin Ali Ahmed,South Africa,,,7000.0,,19000.0,,Old stock,,,,0.0
+2026-10-11,Bhaira,Shara,South Africa,,,3000.0,,18000.0,,Old stock,,,,0.0
+2026-10-11,Bhaira,Shara,Indonesia,,,7000.0,,24000.0,,New arrival,,,,0.0
+2026-10-11,Bhaira,Shorkar,Indonesia,,,3000.0,,20000.0,,Old stock,,,,0.0
+2026-10-11,Bhaira,Falauddin Ali Ahmed,South Africa,,,10000.0,,19000.0,,New arrival,,,,0.0
+2026-10-11,Bhaira,Falauddin Ali Ahmed,India,,,7000.0,,22000.0,,New arrival,,,,0.0
+2026-10-18,Noapara,Nabil Group,South Africa,,,25000.0,,20000.0,Dumped,New arrival,,,,0.0
+2026-10-18,Noapara,Noapara Traders,South Africa,,,25000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Noapara,Noapara Traders,Indonesia,,,19000.0,,25000.0,Dumped,Old stock,,,,
+2026-10-18,Noapara,Falauddin Ali Ahmed,South Africa,,,25000.0,,20500.0,Dumped,New arrival,,,,
+2026-10-18,Noapara,Mostofa Zamana,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Noapara,IRS Intr,Indonesia,,,30000.0,,22800.0,Dumped,New arrival,,,,
+2026-10-18,Noapara,Meghna Group,South Africa,,,5000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Noapara,TST,Indonesia,,,9000.0,,21000.0,Dumped,Old stock,,,,
+2026-10-18,Noapara,TST,India,,,3000.0,,22500.0,Dumped,New arrival,,,,
+2026-10-18,Noapara,TST,Indonesia,,,20000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-18,Noapara,Shorkar,South Africa,,,5000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Noapara,Sahara Entr,South Africa,,,18000.0,,20000.0,Dumped,Old stock,,,,
+2026-10-18,Noapara,Sahara Entr,Indonesia,,,25000.0,,24500.0,Dumped,New arrival,,,,
+2026-10-18,Noapara,Abul Khair,South Africa,,,8000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Noapara,Soinik Traders,South Africa,,,3000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Noapara,Mosharrof Entr,South Africa,,,20000.0,,20000.0,In-transit,Vessel up coming,,,,
+2026-10-18,Noapara,Sheikh Bhorthers,South Africa,,,25000.0,,20500.0,Dumped,Vessel up coming,,,,
+2026-10-18,Noapara,Sheikh Bhorthers,Indonesia,,,2000.0,,20000.0,Dumped,Old stock,,,,
+2026-10-18,Noapara,Modina Trading,South Africa,,,5000.0,,20500.0,In-transit,Vessel up coming,,,,
+2026-10-18,Nagarbari,Sahara Entr,Indonesia,,,5800.0,,24000.0,Dumped,Old stock,,,,
+2026-10-18,Nagarbari,Sahara Entr,Indonesia,,,800.0,,25000.0,Dumped,New arrival,,,,
+2026-10-18,Nagarbari,Sahara Entr,South Africa,,,3000.0,,20500.0,Dumped,Old stock,,,,
+2026-10-18,Nagarbari,Sahara Entr,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Nagarbari,Noapara Traders,Indonesia,,,3000.0,,25000.0,Dumped,Old stock,,,,
+2026-10-18,Nagarbari,Abul Khair,Indonesia,,,1500.0,,25000.0,Dumped,Old stock,,,,
+2026-10-18,Nagarbari,Soinik Traders,South Africa,,,4900.0,,20500.0,Dumped,New arrival,,,,
+2026-10-18,Nagarbari,Falauddin Ali Ahmed,South Africa,,,4000.0,,20500.0,Dumped,New arrival,,,,
+2026-10-18,Nagarbari,Mosharrof Entr,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Nagarbari,Green Trading,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Nagarbari,Modina Trading,South Africa,,,0.0,,0.0,Dumped,Vessel up coming,,,,
+2026-10-18,Nagarbari,Shorkar,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Pagla,Sahara Entr,South Africa,,,3000.0,,20000.0,Dumped,Old stock,,,,
+2026-10-18,Pagla,Sahara Entr,Indonesia,,,2500.0,,25000.0,Dumped,New arrival,,,,
+2026-10-18,Pagla,Noapara Traders,South Africa,,,4700.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Pagla,Noapara Traders,Indonesia,,,4500.0,,24500.0,Dumped,Old stock,,,,
+2026-10-18,Pagla,Nabil Group,South Africa,,,2600.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Pagla,Nabil Group,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Kaliganj,Nabil Group,Indonesia,,,1700.0,,23500.0,Dumped,Old stock,,,,
+2026-10-18,Kaliganj,Meghna Group,South Africa,,,1800.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Kaliganj,Meghna Group,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Kaliganj,Sahara Entr,South Africa,,,2300.0,,20000.0,Dumped,Old stock,,,,
+2026-10-18,Kaliganj,Sahara Entr,Indonesia,,,4600.0,,24500.0,Dumped,New arrival,,,,
+2026-10-18,Kaliganj,TST,Indonesia,,,3500.0,,21000.0,Dumped,Old stock,,,,
+2026-10-18,Kaliganj,TST,India,,,4000.0,,23000.0,Dumped,New arrival,,,,
+2026-10-18,Kaliganj,Shorkar,Indonesia,,,3000.0,,23500.0,Dumped,Old stock,,,,
+2026-10-18,Kaliganj,Shorkar,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Kaliganj,Abul Khair,Indonesia,,,2500.0,,23500.0,Dumped,Old stock,,,,
+2026-10-18,Kaliganj,Noapara Traders,South Africa,,,11500.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Kaliganj,Noapara Traders,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Kaliganj,Soinik Traders,South Africa,,,5000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Kaliganj,Soinik Traders,Indonesia,,,2500.0,,23500.0,Dumped,Old stock,,,,
+2026-10-18,Kaliganj,Mosharrof Entr,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Kaliganj,Modina Trading,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Kaliganj,Sabisa,Indonesia,,,2500.0,,23000.0,Dumped,New arrival,,,,
+2026-10-18,Kaliganj,Sabisa,South Africa,,,3000.0,,19600.0,Dumped,Old stock,,,,
+2026-10-18,Kaliganj,Ahmed Corp,Indonesia,,,4000.0,,24400.0,Dumped,New arrival,,,,
+2026-10-18,Kaliganj,Ahmed Corp,South Africa,,,15000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Kaliganj,Falauddin Ali Ahmed,South Africa,,,600.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Gabtoli,Sahara Entr,South Africa,,,18000.0,,20000.0,Dumped,Old stock,,,,
+2026-10-18,Gabtoli,Sahara Entr,Indonesia,,,9000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-18,Gabtoli,Noapara Traders,South Africa,,,9000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Gabtoli,Nabil Group,South Africa,,,3000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Gabtoli,Abul Khair,South Africa,,,4000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Gabtoli,Abul Khair,Indonesia,,,3000.0,,24000.0,Dumped,Old stock,,,,
+2026-10-18,Daudkandi,Nabil Group,South Africa,,,10000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Daudkandi,Meghna Group,South Africa,,,5000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Daudkandi,Abul Khair,South Africa,,,8000.0,,20500.0,Dumped,New arrival,,,,
+2026-10-18,Daudkandi,Abul Khair,Indonesia,,,6000.0,,23500.0,Dumped,Old stock,,,,
+2026-10-18,Daudkandi,Soinik Traders,South Africa,,,7000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Daudkandi,Mostofa Zamana,South Africa,,,6000.0,,20000.0,Dumped,Vessel up coming,,,,
+2026-10-18,Daudkandi,Shorkar,South Africa,,,0.0,,20000.0,Dumped,Vessel up coming,,,,
+2026-10-18,Daudkandi,Mosharrof Entr,South Africa,,,0.0,,19700.0,Dumped,Vessel up coming,,,,
+2026-10-18,Daudkandi,Modina Trading,South Africa,,,0.0,,19700.0,Dumped,Vessel up coming,,,,
+2026-10-18,Daudkandi,Sabisa,South Africa,,,8000.0,,19600.0,Dumped,New arrival,,,,
+2026-10-18,Daudkandi,Sabisa,Indonesia,,,5000.0,,23500.0,Dumped,Old stock,,,,
+2026-10-18,Daudkandi,Falauddin Ali Ahmed,South Africa,,,8000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-18,Daudkandi,Sahara Entr,South Africa,,,6000.0,,19600.0,Dumped,Old stock,,,,
+2026-10-18,Daudkandi,Sahara Entr,Indonesia,,,6000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-18,Chattogram,Sahara Entr,South Africa,,,19000.0,,19500.0,Dumped,Old stock,,,,
+2026-10-18,Chattogram,Sahara Entr,Indonesia,,,9000.0,,24500.0,Dumped,New arrival,,,,
+2026-10-18,Chattogram,Sabisa,South Africa,,,11000.0,,19600.0,Dumped,New arrival,,,,
+2026-10-18,Chattogram,Meghna Group,South Africa,,,9500.0,,20000.0,Dumped,New arrival,,,,
+2026-10-18,Chattogram,Meghna Group,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Chattogram,Falauddin Ali Ahmed,South Africa,,,14000.0,,20500.0,Dumped,New arrival,,,,
+2026-10-18,Chattogram,Shorkar,South Africa,,,5000.0,,20000.0,In-transit,Vessel up coming,,,,
+2026-10-18,Chattogram,Modina Trading,South Africa,,,5000.0,,19600.0,In-transit,Vessel up coming,,,,
+2026-10-18,Chattogram,Abul Khair,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-18,Bhairab,Falauddin Ali Ahmed,South Africa,,,7000.0,,19000.0,Dumped,Old stock,,,,
+2026-10-18,Bhairab,Sahara Entr,South Africa,,,2500.0,,18000.0,Dumped,Old stock,,,,
+2026-10-18,Bhairab,Sahara Entr,Indonesia,,,6000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-18,Bhairab,Shorkar,Indonesia,,,3000.0,,22600.0,Dumped,Old stock,,,,
+2026-10-18,Bhairab,Falauddin Ali Ahmed,South Africa,,,9500.0,,20500.0,Dumped,New arrival,,,,
+2026-10-18,Bhairab,Falauddin Ali Ahmed,India,,,6500.0,,23000.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Nabil Group,South Africa,,,20000.0,,18800.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Noapara Traders,South Africa,,,24000.0,,18900.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Noapara Traders,Indonesia,,,20000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Noapara Traders,Indonesia,,,16000.0,,25000.0,Dumped,Old stock,,,,
+2026-10-25,Noapara,Falauddin Ali Ahmed,South Africa,,,20000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Mostofa Zamana,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-25,Noapara,IRS Intr,Indonesia,,,15000.0,,23300.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Meghna Group,Indonesia,,,15000.0,,24700.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Meghna Group,Indonesia,,,25000.0,,25500.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Meghna Group,South Africa,,,5000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,TST,Indonesia,,,3000.0,,21000.0,Dumped,Old stock,,,,
+2026-10-25,Noapara,TST,India,,,5000.0,,23400.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,TST,Indonesia,,,15000.0,,23800.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Shorkar,South Africa,,,10000.0,,19300.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Sahara Entr,South Africa,,,12000.0,,19000.0,Dumped,Old stock,,,,
+2026-10-25,Noapara,Sahara Entr,Indonesia,,,20000.0,,24500.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Abul Khair,South Africa,,,8000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Soinik Traders,South Africa,,,13000.0,,19300.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Mosharrof Entr,South Africa,,,15000.0,,19300.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Sheikh Bhorthers,South Africa,,,25000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-25,Noapara,Sheikh Bhorthers,Indonesia,,,2000.0,,20000.0,Dumped,Old stock,,,,
+2026-10-25,Noapara,Modina Trading,South Africa,,,17000.0,,19300.0,Dumped,New arrival,,,,
+2026-10-25,Nagarbari,Sahara Entr,Indonesia,,,5000.0,,24000.0,Dumped,Old stock,,,,
+2026-10-25,Nagarbari,Sahara Entr,Indonesia,,,300.0,,24000.0,Dumped,New arrival,,,,
+2026-10-25,Nagarbari,Sahara Entr,South Africa,,,3000.0,,20500.0,Dumped,Old stock,,,,
+2026-10-25,Nagarbari,Sahara Entr,South Africa,,,1000.0,,20500.0,In-transit,New arrival,,,,
+2026-10-25,Nagarbari,Noapara Traders,Indonesia,,,3000.0,,25000.0,Dumped,Old stock,,,,
+2026-10-25,Nagarbari,Abul Khair,Indonesia,,,1500.0,,24700.0,Dumped,Old stock,,,,
+2026-10-25,Nagarbari,Soinik Traders,South Africa,,,4600.0,,20000.0,Dumped,New arrival,,,,
+2026-10-25,Nagarbari,Falauddin Ali Ahmed,South Africa,,,3700.0,,20000.0,Dumped,New arrival,,,,
+2026-10-25,Nagarbari,Mosharrof Entr,South Africa,,,1000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-25,Nagarbari,Green Trading,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-25,Nagarbari,Modina Trading,South Africa,,,5000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-25,Nagarbari,Shorkar,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-25,Pagla,Sahara Entr,South Africa,,,3000.0,,19500.0,Dumped,Old stock,,,,
+2026-10-25,Pagla,Sahara Entr,Indonesia,,,5000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-25,Pagla,Noapara Traders,South Africa,,,4500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-25,Pagla,Noapara Traders,Indonesia,,,4500.0,,25000.0,Dumped,Old stock,,,,
+2026-10-25,Pagla,Nabil Group,South Africa,,,2600.0,,20000.0,Dumped,New arrival,,,,
+2026-10-25,Pagla,Nabil Group,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-25,Kaliganj,Nabil Group,South Africa,,,2500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Nabil Group,Indonesia,,,0.0,,0.0,Dumped,Old stock,,,,
+2026-10-25,Kaliganj,IRS Intr,Indonesia,,,2500.0,,24500.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Meghna Group,Indonesia,,,10000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Meghna Group,South Africa,,,3000.0,,19800.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Meghna Group,Indonesia,,,15000.0,,25800.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Sahara Entr,South Africa,,,2300.0,,20000.0,Dumped,Old stock,,,,
+2026-10-25,Kaliganj,Sahara Entr,Indonesia,,,4500.0,,24400.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,TST,Indonesia,,,3000.0,,23500.0,Dumped,Old stock,,,,
+2026-10-25,Kaliganj,TST,Indonesia,,,4000.0,,3500.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,TST,India,,,4000.0,,23000.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Shorkar,Indonesia,,,2600.0,,23500.0,Dumped,Old stock,,,,
+2026-10-25,Kaliganj,Shorkar,South Africa,,,2800.0,,19500.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Abul Khair,Indonesia,,,3500.0,,23500.0,Dumped,Old stock,,,,
+2026-10-25,Kaliganj,Noapara Traders,South Africa,,,11500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Noapara Traders,Indonesia,,,20000.0,,24500.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Soinik Traders,South Africa,,,4000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Soinik Traders,Indonesia,,,2500.0,,23500.0,Dumped,Old stock,,,,
+2026-10-25,Kaliganj,Mosharrof Entr,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-25,Kaliganj,Mosharrof Entr,South Africa,,,1500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Modina Trading,South Africa,,,12000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Sabisa,Indonesia,,,2300.0,,23000.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Sabisa,South Africa,,,2800.0,,19600.0,Dumped,Old stock,,,,
+2026-10-25,Kaliganj,Ahmed Corp,Indonesia,,,3000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Ahmed Corp,South Africa,,,14000.0,,19400.0,Dumped,New arrival,,,,
+2026-10-25,Kaliganj,Falauddin Ali Ahmed,South Africa,,,600.0,,20000.0,Dumped,New arrival,,,,
+2026-10-25,Gabtoli,Sahara Entr,South Africa,,,15000.0,,19600.0,Dumped,Old stock,,,,
+2026-10-25,Gabtoli,Sahara Entr,Indonesia,,,8000.0,,23700.0,Dumped,New arrival,,,,
+2026-10-25,Gabtoli,Noapara Traders,South Africa,,,8000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-25,Gabtoli,Noapara Traders,Indonesia,,,5000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-25,Gabtoli,Nabil Group,South Africa,,,3000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-25,Gabtoli,Abul Khair,South Africa,,,3500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-25,Gabtoli,Abul Khair,Indonesia,,,2500.0,,24000.0,Dumped,Old stock,,,,
+2026-10-25,Daudkandi,Nabil Group,South Africa,,,10000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-25,Daudkandi,Meghna Group,South Africa,,,5000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-25,Daudkandi,Abul Khair,South Africa,,,8000.0,,20500.0,Dumped,New arrival,,,,
+2026-10-25,Daudkandi,Abul Khair,Indonesia,,,6000.0,,23500.0,Dumped,Old stock,,,,
+2026-10-25,Daudkandi,Soinik Traders,South Africa,,,7000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-25,Daudkandi,Mostofa Zamana,South Africa,,,6000.0,,20000.0,Dumped,Old stock,,,,
+2026-10-25,Daudkandi,Shorkar,South Africa,,,12000.0,,19600.0,Dumped,New arrival,,,,0.0
+2026-10-25,Daudkandi,Mosharrof Entr,South Africa,,,15000.0,,19700.0,Dumped,New arrival,,,,0.0
+2026-10-25,Daudkandi,Modina Trading,South Africa,,,12000.0,,19700.0,Dumped,New arrival,,,,0.0
+2026-10-25,Daudkandi,Sabisa,South Africa,,,8000.0,,19600.0,Dumped,New arrival,,,,0.0
+2026-10-25,Daudkandi,Sabisa,Indonesia,,,5000.0,,23500.0,Dumped,Old stock,,,,0.0
+2026-10-25,Daudkandi,Falauddin Ali Ahmed,South Africa,,,8000.0,,19500.0,Dumped,New arrival,,,,0.0
+2026-10-25,Daudkandi,Sahara Entr,South Africa,,,6000.0,,19600.0,Dumped,Old stock,,,,0.0
+2026-10-25,Daudkandi,Sahara Entr,Indonesia,,,6000.0,,24000.0,Dumped,New arrival,,,,0.0
+2026-10-25,Chattogram,Sahara Entr,South Africa,,,19000.0,,19500.0,Dumped,Old stock,,,,0.0
+2026-10-25,Chattogram,Sahara Entr,Indonesia,,,9000.0,,24500.0,Dumped,New arrival,,,,0.0
+2026-10-25,Chattogram,Sabisa,South Africa,,,20000.0,,19000.0,Dumped,New arrival,,,,0.0
+2026-10-25,Chattogram,Meghna Group,South Africa,,,7000.0,,19500.0,Dumped,New arrival,,,,0.0
+2026-10-25,Chattogram,Meghna Group,Indonesia,,,0.0,,0.0,Dumped,New arrival,,,,0.0
+2026-10-25,Chattogram,Falauddin Ali Ahmed,South Africa,,,20000.0,,19500.0,Dumped,New arrival,,,,0.0
+2026-10-25,Chattogram,Shorkar,South Africa,,,17000.0,,19000.0,Dumped,New arrival,,,,0.0
+2026-10-25,Chattogram,Modina Trading,South Africa,,,5000.0,,18500.0,Dumped,New arrival,,,,0.0
+2026-10-25,Chattogram,Abul Khair,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,1.0
+2026-10-25,Bhairab,Falauddin Ali Ahmed,South Africa,,,6000.0,,19600.0,Dumped,Old stock,,,,0.0
+2026-10-25,Bhairab,Sahara Entr,South Africa,,,2000.0,,18600.0,Dumped,Old stock,,,,0.0
+2026-10-25,Bhairab,Sahara Entr,Indonesia,,,5000.0,,24000.0,Dumped,New arrival,,,,0.0
+2026-10-25,Bhairab,Shorkar,Indonesia,,,2500.0,,22500.0,Dumped,Old stock,,,,0.0
+2026-10-25,Bhairab,Shorkar,South Africa,,,4000.0,,20000.0,Dumped,New arrival,,,,0.0
+2026-10-25,Bhairab,Falauddin Ali Ahmed,South Africa,,,8500.0,,20000.0,Dumped,New arrival,,,,0.0
+2026-10-27,Noapara,Nabil Group,South Africa,,,20000.0,,19200.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Noapara Traders,South Africa,,,25000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Noapara Traders,Indonesia,,,20000.0,,23600.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Noapara Traders,Indonesia,,,15000.0,,24000.0,Dumped,Old stock,,,,
+2026-10-27,Noapara,Falauddin Ali Ahmed,South Africa,,,17000.0,,19300.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Mostofa Zamana,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-27,Noapara,IRS Intr,Indonesia,,,20000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,IRS Intr,Indonesia,,,17000.0,,23400.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Meghna Group,Indonesia,,,30000.0,,25500.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Meghna Group,Indonesia,,,15000.0,,24500.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Meghna Group,South Africa,,,5000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,TST,Indonesia,,,8000.0,,24000.0,Dumped,Old stock,,,,
+2026-10-27,Noapara,TST,India,,,3000.0,,23000.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,TST,Indonesia,,,15000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,TST,Indonesia,,,17000.0,,24700.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Shorkar,South Africa,,,15000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Sahara Entr,South Africa,,,15000.0,,19500.0,Dumped,Old stock,,,,
+2026-10-27,Noapara,Sahara Entr,Indonesia,,,20000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Abul Khair,Indonesia,,,0.0,,0.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Abul Khair,South Africa,,,3000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Soinik Traders,South Africa,,,15000.0,,19600.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Mosharrof Entr,South Africa,,,10000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Sheikh Bhorthers,South Africa,,,25000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Noapara,Sheikh Bhorthers,Indonesia,,,2000.0,,20000.0,Dumped,Old stock,,,,
+2026-10-27,Noapara,Modina Trading,South Africa,,,15000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-27,Nagarbari,Sahara Entr,Indonesia,,,5000.0,,24000.0,Dumped,Old stock,,,,
+2026-10-27,Nagarbari,Sahara Entr,Indonesia,,,300.0,,24000.0,Dumped,New arrival,,,,
+2026-10-27,Nagarbari,Sahara Entr,South Africa,,,3000.0,,20500.0,Dumped,Old stock,,,,
+2026-10-27,Nagarbari,Sahara Entr,South Africa,,,1000.0,,20500.0,In-transit,New arrival,,,,
+2026-10-27,Nagarbari,Noapara Traders,Indonesia,,,3000.0,,25000.0,Dumped,Old stock,,,,
+2026-10-27,Nagarbari,Abul Khair,Indonesia,,,1500.0,,24700.0,Dumped,Old stock,,,,
+2026-10-27,Nagarbari,Soinik Traders,South Africa,,,4600.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Nagarbari,Falauddin Ali Ahmed,South Africa,,,3700.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Nagarbari,Mosharrof Entr,South Africa,,,1000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-27,Nagarbari,Green Trading,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-27,Nagarbari,Modina Trading,South Africa,,,5000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Nagarbari,Shorkar,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-27,Pagla,Sahara Entr,South Africa,,,3000.0,,19500.0,Dumped,Old stock,,,,
+2026-10-27,Pagla,Sahara Entr,Indonesia,,,5000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-27,Pagla,Noapara Traders,South Africa,,,4500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Pagla,Noapara Traders,Indonesia,,,4500.0,,25000.0,Dumped,Old stock,,,,
+2026-10-27,Pagla,Nabil Group,South Africa,,,2600.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Pagla,Nabil Group,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-27,Kaliganj,Nabil Group,South Africa,,,2500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Nabil Group,Indonesia,,,0.0,,0.0,Dumped,Old stock,,,,
+2026-10-27,Kaliganj,IRS Intr,Indonesia,,,2500.0,,24500.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Meghna Group,Indonesia,,,10000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Meghna Group,South Africa,,,3000.0,,19800.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Meghna Group,Indonesia,,,15000.0,,25800.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Sahara Entr,South Africa,,,2300.0,,20000.0,Dumped,Old stock,,,,
+2026-10-27,Kaliganj,Sahara Entr,Indonesia,,,4500.0,,24400.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,TST,Indonesia,,,3000.0,,23500.0,Dumped,Old stock,,,,
+2026-10-27,Kaliganj,TST,Indonesia,,,4000.0,,3500.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,TST,India,,,4000.0,,23000.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Shorkar,Indonesia,,,2600.0,,23500.0,Dumped,Old stock,,,,
+2026-10-27,Kaliganj,Shorkar,South Africa,,,2800.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Abul Khair,Indonesia,,,3500.0,,23500.0,Dumped,Old stock,,,,
+2026-10-27,Kaliganj,Noapara Traders,South Africa,,,11500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Noapara Traders,Indonesia,,,20000.0,,24500.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Soinik Traders,South Africa,,,4000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Soinik Traders,Indonesia,,,2500.0,,23500.0,Dumped,Old stock,,,,
+2026-10-27,Kaliganj,Mosharrof Entr,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-27,Kaliganj,Mosharrof Entr,South Africa,,,1500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Modina Trading,South Africa,,,12000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Sabisa,Indonesia,,,2300.0,,23000.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Sabisa,South Africa,,,2800.0,,19600.0,Dumped,Old stock,,,,
+2026-10-27,Kaliganj,Ahmed Corp,Indonesia,,,3000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Ahmed Corp,South Africa,,,14000.0,,19400.0,Dumped,New arrival,,,,
+2026-10-27,Kaliganj,Falauddin Ali Ahmed,South Africa,,,600.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Gabtoli,Sahara Entr,South Africa,,,15000.0,,19600.0,Dumped,Old stock,,,,
+2026-10-27,Gabtoli,Sahara Entr,Indonesia,,,8000.0,,23700.0,Dumped,New arrival,,,,
+2026-10-27,Gabtoli,Noapara Traders,South Africa,,,8000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Gabtoli,Noapara Traders,Indonesia,,,5000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-27,Gabtoli,Nabil Group,South Africa,,,3000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Gabtoli,Abul Khair,South Africa,,,3500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Gabtoli,Abul Khair,Indonesia,,,2500.0,,24000.0,Dumped,Old stock,,,,
+2026-10-27,Daudkandi,Nabil Group,South Africa,,,10000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Daudkandi,Meghna Group,South Africa,,,5000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Daudkandi,Abul Khair,South Africa,,,8000.0,,20500.0,Dumped,New arrival,,,,
+2026-10-27,Daudkandi,Abul Khair,Indonesia,,,6000.0,,23500.0,Dumped,Old stock,,,,
+2026-10-27,Daudkandi,Soinik Traders,South Africa,,,7000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Daudkandi,Mostofa Zamana,South Africa,,,6000.0,,20000.0,Dumped,Old stock,,,,
+2026-10-27,Daudkandi,Shorkar,South Africa,,,12000.0,,19600.0,Dumped,New arrival,,,,
+2026-10-27,Daudkandi,Mosharrof Entr,South Africa,,,15000.0,,19700.0,Dumped,New arrival,,,,
+2026-10-27,Daudkandi,Modina Trading,South Africa,,,12000.0,,19700.0,Dumped,New arrival,,,,
+2026-10-27,Daudkandi,Sabisa,South Africa,,,8000.0,,19600.0,Dumped,New arrival,,,,
+2026-10-27,Daudkandi,Sabisa,Indonesia,,,5000.0,,23500.0,Dumped,Old stock,,,,
+2026-10-27,Daudkandi,Falauddin Ali Ahmed,South Africa,,,8000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Daudkandi,Sahara Entr,South Africa,,,6000.0,,19600.0,Dumped,Old stock,,,,
+2026-10-27,Daudkandi,Sahara Entr,Indonesia,,,6000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-27,Chattogram,Sahara Entr,South Africa,,,19000.0,,19500.0,Dumped,Old stock,,,,
+2026-10-27,Chattogram,Sahara Entr,Indonesia,,,9000.0,,24500.0,Dumped,New arrival,,,,
+2026-10-27,Chattogram,Sabisa,Indonesia,,,10000.0,,23000.0,,,,,,
+2026-10-27,Chattogram,Sabisa,South Africa,,,20000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-27,Chattogram,Meghna Group,South Africa,,,7000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Chattogram,Meghna Group,Indonesia,,,0.0,,0.0,Dumped,New arrival,,,,
+2026-10-27,Chattogram,Falauddin Ali Ahmed,South Africa,,,20000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-27,Chattogram,Shorkar,South Africa,,,17000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-27,Chattogram,Modina Trading,South Africa,,,5000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-27,Chattogram,Abul Khair,Indonesia,,,0.0,,0.0,Dumped,New arrival,,,,
+2026-10-27,Bhairab,Falauddin Ali Ahmed,South Africa,,,6000.0,,19600.0,Dumped,Old stock,,,,
+2026-10-27,Bhairab,Sahara Entr,South Africa,,,2000.0,,18600.0,Dumped,Old stock,,,,
+2026-10-27,Bhairab,Sahara Entr,Indonesia,,,5000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-27,Bhairab,Shorkar,Indonesia,,,2500.0,,22500.0,Dumped,Old stock,,,,
+2026-10-27,Bhairab,Shorkar,South Africa,,,4000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Bhairab,Falauddin Ali Ahmed,South Africa,,,8500.0,,20000.0,Dumped,New arrival,,,,
+2026-10-27,Bhairab,Falauddin Ali Ahmed,India,,,4000.0,,23500.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Nabil Group,South Africa,,,20000.0,,19200.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Noapara Traders,South Africa,,,25000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Noapara Traders,Indonesia,,,20000.0,,23600.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Noapara Traders,Indonesia,,,15000.0,,24000.0,Dumped,Old stock,,,,
+2026-10-28,Noapara,Falauddin Ali Ahmed,South Africa,,,17000.0,,19300.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Mostofa Zamana,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-28,Noapara,IRS Intr,Indonesia,,,20000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,IRS Intr,Indonesia,,,17000.0,,23400.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Meghna Group,Indonesia,,,30000.0,,26000.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Meghna Group,Indonesia,,,15000.0,,25000.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Meghna Group,South Africa,,,5000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,TST,Indonesia,,,8000.0,,22000.0,Dumped,Old stock,,,,
+2026-10-28,Noapara,TST,India,,,3000.0,,23000.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,TST,Indonesia,,,15000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,TST,Indonesia,,,17000.0,,24700.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Shorkar,South Africa,,,15000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Sahara Entr,South Africa,,,15000.0,,19500.0,Dumped,Old stock,,,,
+2026-10-28,Noapara,Sahara Entr,Indonesia,,,20000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Abul Khair,Indonesia,,,0.0,,0.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Abul Khair,South Africa,,,3000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Soinik Traders,South Africa,,,15000.0,,19600.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Mosharrof Entr,South Africa,,,10000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Sheikh Bhorthers,South Africa,,,25000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Noapara,Sheikh Bhorthers,Indonesia,,,2000.0,,20000.0,Dumped,Old stock,,,,
+2026-10-28,Noapara,Modina Trading,South Africa,,,15000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-28,Nagarbari,Sahara Entr,Indonesia,,,5000.0,,24000.0,Dumped,Old stock,,,,
+2026-10-28,Nagarbari,Sahara Entr,Indonesia,,,300.0,,24000.0,Dumped,New arrival,,,,
+2026-10-28,Nagarbari,Sahara Entr,South Africa,,,3000.0,,20500.0,Dumped,Old stock,,,,
+2026-10-28,Nagarbari,Sahara Entr,South Africa,,,1000.0,,20500.0,In-transit,New arrival,,,,
+2026-10-28,Nagarbari,Noapara Traders,Indonesia,,,3000.0,,25500.0,Dumped,Old stock,,,,
+2026-10-28,Nagarbari,Abul Khair,Indonesia,,,1500.0,,24700.0,Dumped,Old stock,,,,
+2026-10-28,Nagarbari,Soinik Traders,South Africa,,,4600.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Nagarbari,Falauddin Ali Ahmed,South Africa,,,3700.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Nagarbari,Mosharrof Entr,South Africa,,,1000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-28,Nagarbari,Green Trading,South Africa,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-28,Nagarbari,Modina Trading,South Africa,,,5000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Nagarbari,Shorkar,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-28,Pagla,Sahara Entr,South Africa,,,3000.0,,19500.0,Dumped,Old stock,,,,
+2026-10-28,Pagla,Sahara Entr,Indonesia,,,5000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-28,Pagla,Noapara Traders,South Africa,,,4500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Pagla,Noapara Traders,Indonesia,,,4500.0,,25000.0,Dumped,Old stock,,,,
+2026-10-28,Pagla,Nabil Group,South Africa,,,2600.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Pagla,Nabil Group,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-28,Kaliganj,Nabil Group,South Africa,,,2500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Nabil Group,Indonesia,,,0.0,,0.0,Dumped,Old stock,,,,
+2026-10-28,Kaliganj,IRS Intr,Indonesia,,,2500.0,,24500.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Meghna Group,Indonesia,,,10000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Meghna Group,South Africa,,,3000.0,,19800.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Meghna Group,Indonesia,,,15000.0,,25800.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Sahara Entr,South Africa,,,2300.0,,20000.0,Dumped,Old stock,,,,
+2026-10-28,Kaliganj,Sahara Entr,Indonesia,,,4500.0,,24400.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,TST,Indonesia,,,3000.0,,23500.0,Dumped,Old stock,,,,
+2026-10-28,Kaliganj,TST,Indonesia,,,4000.0,,3500.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,TST,India,,,4000.0,,23000.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Shorkar,Indonesia,,,2600.0,,23500.0,Dumped,Old stock,,,,
+2026-10-28,Kaliganj,Shorkar,South Africa,,,2800.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Abul Khair,Indonesia,,,3500.0,,23500.0,Dumped,Old stock,,,,
+2026-10-28,Kaliganj,Noapara Traders,South Africa,,,11500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Noapara Traders,Indonesia,,,18000.0,,25500.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Soinik Traders,South Africa,,,4000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Soinik Traders,Indonesia,,,2500.0,,23500.0,Dumped,Old stock,,,,
+2026-10-28,Kaliganj,Mosharrof Entr,Indonesia,,,0.0,,0.0,In-transit,Vessel up coming,,,,
+2026-10-28,Kaliganj,Mosharrof Entr,South Africa,,,1500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Modina Trading,South Africa,,,12000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Sabisa,Indonesia,,,2300.0,,23800.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Sabisa,South Africa,,,2800.0,,19600.0,Dumped,Old stock,,,,
+2026-10-28,Kaliganj,Ahmed Corp,Indonesia,,,3000.0,,24500.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Ahmed Corp,South Africa,,,14000.0,,19400.0,Dumped,New arrival,,,,
+2026-10-28,Kaliganj,Falauddin Ali Ahmed,South Africa,,,600.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Gabtoli,Sahara Entr,South Africa,,,15000.0,,19600.0,Dumped,Old stock,,,,
+2026-10-28,Gabtoli,Sahara Entr,Indonesia,,,8000.0,,23700.0,Dumped,New arrival,,,,
+2026-10-28,Gabtoli,Noapara Traders,South Africa,,,8000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Gabtoli,Noapara Traders,Indonesia,,,5000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-28,Gabtoli,Nabil Group,South Africa,,,3000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Gabtoli,Abul Khair,South Africa,,,3500.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Gabtoli,Abul Khair,Indonesia,,,2500.0,,24500.0,Dumped,Old stock,,,,
+2026-10-28,Daudkandi,Nabil Group,South Africa,,,10000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Daudkandi,Meghna Group,Indonesia,,,10000.0,,26000.0,Dumped,New arrival,,,,
+2026-10-28,Daudkandi,Meghna Group,South Africa,,,5000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Daudkandi,Abul Khair,South Africa,,,8000.0,,20500.0,Dumped,New arrival,,,,
+2026-10-28,Daudkandi,Abul Khair,Indonesia,,,6000.0,,23500.0,Dumped,Old stock,,,,
+2026-10-28,Daudkandi,Soinik Traders,South Africa,,,7000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Daudkandi,Mostofa Zamana,South Africa,,,6000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Daudkandi,Shorkar,South Africa,,,12000.0,,19600.0,Dumped,New arrival,,,,
+2026-10-28,Daudkandi,Mosharrof Entr,South Africa,,,15000.0,,19700.0,Dumped,New arrival,,,,
+2026-10-28,Daudkandi,Modina Trading,South Africa,,,12000.0,,19700.0,Dumped,New arrival,,,,
+2026-10-28,Daudkandi,Sabisa,South Africa,,,8000.0,,19600.0,Dumped,New arrival,,,,
+2026-10-28,Daudkandi,Sabisa,Indonesia,,,5000.0,,23500.0,Dumped,Old stock,,,,
+2026-10-28,Daudkandi,Falauddin Ali Ahmed,South Africa,,,8000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Daudkandi,Sahara Entr,South Africa,,,6000.0,,19600.0,Dumped,Old stock,,,,
+2026-10-28,Daudkandi,Sahara Entr,Indonesia,,,6000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-28,Chattogram,Sahara Entr,South Africa,,,19000.0,,19500.0,Dumped,Old stock,,,,
+2026-10-28,Chattogram,Sahara Entr,Indonesia,,,9000.0,,24500.0,Dumped,New arrival,,,,
+2026-10-28,Chattogram,Sabisa,Indonesia,,,10000.0,,23500.0,Dumped,New arrival,,,,
+2026-10-28,Chattogram,Sabisa,South Africa,,,20000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-28,Chattogram,Meghna Group,South Africa,,,7000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Chattogram,Meghna Group,Indonesia,,,0.0,,0.0,Dumped,New arrival,,,,
+2026-10-28,Chattogram,Falauddin Ali Ahmed,South Africa,,,20000.0,,19500.0,Dumped,New arrival,,,,
+2026-10-28,Chattogram,Shorkar,South Africa,,,17000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-28,Chattogram,Modina Trading,South Africa,,,5000.0,,19000.0,Dumped,New arrival,,,,
+2026-10-28,Chattogram,Abul Khair,Indonesia,,,0.0,,0.0,Dumped,New arrival,,,,
+2026-10-28,Bhairab,Falauddin Ali Ahmed,South Africa,,,6000.0,,19600.0,Dumped,Old stock,,,,
+2026-10-28,Bhairab,Sahara Entr,South Africa,,,2000.0,,18600.0,Dumped,Old stock,,,,
+2026-10-28,Bhairab,Sahara Entr,Indonesia,,,5000.0,,24000.0,Dumped,New arrival,,,,
+2026-10-28,Bhairab,Shorkar,Indonesia,,,2500.0,,22500.0,Dumped,Old stock,,,,
+2026-10-28,Bhairab,Shorkar,South Africa,,,4000.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Bhairab,Falauddin Ali Ahmed,South Africa,,,8500.0,,20000.0,Dumped,New arrival,,,,
+2026-10-28,Bhairab,Falauddin Ali Ahmed,India,,,4000.0,,23500.0,Dumped,New arrival,,,,
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,0.0

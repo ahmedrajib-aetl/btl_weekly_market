@@ -17,9 +17,10 @@ class SourceError(RuntimeError):
     """Raised when the sheet cannot be read."""
 
 
-def sheet_urls() -> tuple[str | None, str]:
-    """Return (csv_url, xlsx_url). csv_url is None when no gid is configured."""
-    base = f"https://docs.google.com/spreadsheets/d/{config.SHEET_ID}"
+def sheet_urls(sheet_id: str | None = None) -> tuple[str | None, str]:
+    """Return (csv_url, xlsx_url) for a workbook. csv_url needs a configured gid."""
+    sid = sheet_id or config.SHEET_ID
+    base = f"https://docs.google.com/spreadsheets/d/{sid}"
     csv_url = (
         f"{base}/export?format=csv&gid={config.MASTER_GID}"
         if config.MASTER_GID is not None
@@ -27,6 +28,11 @@ def sheet_urls() -> tuple[str | None, str]:
     )
     xlsx_url = f"{base}/export?format=xlsx"
     return csv_url, xlsx_url
+
+
+def candidate_sheet_ids() -> list[str]:
+    ids = [config.SHEET_ID, *getattr(config, "SHEET_FALLBACKS", [])]
+    return list(dict.fromkeys(i for i in ids if i))
 
 
 def _get(url: str) -> bytes:
@@ -48,35 +54,45 @@ def _get(url: str) -> bytes:
 
 def _read_body(body: bytes) -> pd.DataFrame:
     if body[:2] == b"PK":  # xlsx / zip
-        return pd.read_excel(
-            io.BytesIO(body), sheet_name=config.MASTER_SHEET_NAME, header=0
+        book = pd.ExcelFile(io.BytesIO(body))
+        sheet = (
+            config.MASTER_SHEET_NAME
+            if config.MASTER_SHEET_NAME in book.sheet_names
+            else book.sheet_names[0]
         )
+        return book.parse(sheet, header=0)
     return pd.read_csv(io.BytesIO(body), encoding="utf-8-sig")
 
 
 def fetch_master() -> tuple[pd.DataFrame, dict]:
-    """Download the Master Database tab. Returns (dataframe, metadata)."""
-    csv_url, xlsx_url = sheet_urls()
-    candidates: list[tuple[str, str]] = []
-    if csv_url:
-        candidates.append(("Google Sheet · CSV", csv_url))
-    candidates.append(("Google Sheet · Excel export", xlsx_url))
+    """Download the Master Database tab. Returns (dataframe, metadata).
 
+    Tries the primary workbook first, then any configured fallbacks. A private
+    or deleted file is skipped instead of breaking the dashboard.
+    """
     errors: list[str] = []
-    for label, url in candidates:
-        try:
-            body = _get(url)
-            df = _read_body(body)
-            if df.empty:
-                raise SourceError("sheet came back empty")
-            return df, {
-                "source": label,
-                "fetched_at": datetime.now(timezone.utc),
-                "live": True,
-                "note": "",
-            }
-        except Exception as exc:  # try the next transport
-            errors.append(f"{label}: {exc}")
+    for sid in candidate_sheet_ids():
+        csv_url, xlsx_url = sheet_urls(sid)
+        candidates: list[tuple[str, str]] = []
+        if csv_url:
+            candidates.append(("Google Sheet · CSV", csv_url))
+        candidates.append(("Google Sheet · Excel export", xlsx_url))
+
+        for label, url in candidates:
+            try:
+                body = _get(url)
+                df = _read_body(body)
+                if df.empty:
+                    raise SourceError("sheet came back empty")
+                return df, {
+                    "source": label,
+                    "sheet_id": sid,
+                    "fetched_at": datetime.now(timezone.utc),
+                    "live": True,
+                    "note": "",
+                }
+            except Exception as exc:  # try the next transport / next file
+                errors.append(f"{sid[:10]}… {label}: {exc}")
 
     raise SourceError(" | ".join(errors))
 
@@ -86,6 +102,7 @@ def read_snapshot() -> tuple[pd.DataFrame, dict]:
     df = pd.read_csv(path, encoding="utf-8-sig")
     return df, {
         "source": "Local snapshot (offline)",
+        "sheet_id": None,
         "fetched_at": datetime.fromtimestamp(os.path.getmtime(path), timezone.utc),
         "live": False,
         "note": "",

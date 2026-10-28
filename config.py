@@ -4,8 +4,16 @@ Everything a normal user might want to change lives here.
 """
 
 # ---------------------------------------------------------------- data source
-# Google Sheet / Drive file id (the long id in the share link).
-SHEET_ID = "1RbZLnMtinR6H7SD_mZmDX-KD0Sy1m1cA"
+# Primary workbook. NOTE: this file must be shared as "Anyone with the link ->
+# Viewer" for the dashboard to read it. It is tried first; if Google refuses it
+# (401/403), the app falls back to the ids below so the dashboard keeps working.
+SHEET_ID = "1EQBuUlDPQS3fPP5yOTfWe-R9JPml1kT0"
+
+# Fallbacks, in order. The second id is the file the dashboard used before and
+# already contains the same daily data (through 2026-10-28).
+SHEET_FALLBACKS = [
+    "1RbZLnMtinR6H7SD_mZmDX-KD0Sy1m1cA",
+]
 
 # Tab that holds the raw weekly rows.
 MASTER_SHEET_NAME = "Master Database"
@@ -34,11 +42,9 @@ COMPLETENESS_RATIO = 0.6
 MIN_ROWS_FOR_COMPLETE = 5
 
 # What the page opens on:
-#   False = newest *complete* week (recommended - avoids showing a half-entered
-#           next week as if it were the market).
-#   True  = newest date in the sheet, even if only partly filled (strict parity
-#           with the Vercel dashboard, which opens on 2026-10-18).
-DEFAULT_TO_LATEST_DATE = False
+#   True  = newest date in the sheet (daily data - what this dashboard now uses).
+#   False = newest *complete* week (only for the old weekly layout).
+DEFAULT_TO_LATEST_DATE = True
 
 # How many importers to draw before grouping the tail into "Other".
 TOP_N_IMPORTERS = 18

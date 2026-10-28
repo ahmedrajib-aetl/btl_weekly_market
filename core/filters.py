@@ -1,4 +1,9 @@
-"""Top filter bar - five searchable selects + reset, as in the reference."""
+"""Top filter bar - five searchable selects + reset.
+
+All chart data is scoped to ONE report date. The other filter options are built
+from that same date, so a location/importer that only exists on another day is
+never offered.
+"""
 
 from __future__ import annotations
 
@@ -15,34 +20,39 @@ def _all_label(name: str):
     return f"All {name}"
 
 
+def _reset_dependent() -> None:
+    """Called before the script when the date changes."""
+    for key in ("f_loc", "f_imp", "f_org", "f_rem"):
+        st.session_state[key] = ALL
+
+
 def _reset_all(default: pd.Timestamp) -> None:
-    """Runs before widgets are created, so widget keys may be reassigned."""
+    """Reset button callback - runs before widgets are created."""
     st.session_state["f_date"] = default
-    st.session_state["f_loc"] = ALL
-    st.session_state["f_imp"] = ALL
-    st.session_state["f_org"] = ALL
-    st.session_state["f_rem"] = ALL
+    for key in ("f_loc", "f_imp", "f_org", "f_rem"):
+        st.session_state[key] = ALL
+
+
+def _prune(key: str, options: list[str]) -> None:
+    if st.session_state.get(key) not in options:
+        st.session_state[key] = ALL
 
 
 def render(df: pd.DataFrame, quality: pd.DataFrame) -> dict:
     valid = transform.analysis_rows(df)
 
     dates = sorted(quality.index, reverse=True)
-    if config.DEFAULT_TO_LATEST_DATE:
-        default = dates[0] if dates else None
-    else:
-        default = transform.default_date(quality) or (dates[0] if dates else None)
+    if not dates:
+        return {"date": None, "df": valid.iloc[0:0], "quality": quality,
+                "all_valid": valid, "filters": {}, "in_progress": False}
 
-    locations = sorted(valid["location"].unique())
-    importers = sorted(valid["importer"].unique())
-    origins = sorted(valid["origin"].replace("", "(unknown)").unique())
-    remarks = sorted(valid["remarks"].replace("", "(blank)").unique())
+    if config.DEFAULT_TO_LATEST_DATE:
+        default = dates[0]
+    else:
+        default = transform.default_date(quality) or dates[0]
 
     def date_label(d: pd.Timestamp) -> str:
-        label = d.strftime("%Y-%m-%d")
-        if d in quality.index and not bool(quality.loc[d, "complete"]):
-            return f"{label} · in progress"
-        return label
+        return d.strftime("%Y-%m-%d")
 
     with st.container(border=True, key="filterbar"):
         c0, c1, c2, c3, c4, c5 = st.columns([1, 1, 1, 1, 1, 0.9], vertical_alignment="bottom")
@@ -52,30 +62,50 @@ def render(df: pd.DataFrame, quality: pd.DataFrame) -> dict:
             if "f_date" not in st.session_state:
                 date_kwargs["index"] = dates.index(default)
             sel_date = st.selectbox(
-                "Date", dates, format_func=date_label,
-                key="f_date", label_visibility="visible", **date_kwargs,
+                "Date (type to search)", dates, format_func=date_label,
+                key="f_date", label_visibility="visible",
+                help="Click the box and type a date to search.",
+                on_change=_reset_dependent,
+                **date_kwargs,
             )
+
+        # Options come from the selected day only - daily data, no cross-date lists.
+        base = valid[valid["date"] == sel_date].copy()
+        locations = sorted(base["location"].unique())
+        importers = sorted(base["importer"].unique())
+        origins = sorted(base["origin"].replace("", "(unknown)").unique())
+        remarks = sorted(base["remarks"].replace("", "(blank)").unique())
+
+        loc_options = [ALL] + locations
+        imp_options = [ALL] + importers
+        org_options = [ALL] + origins
+        rem_options = [ALL] + remarks
+
+        for key, options in (("f_loc", loc_options), ("f_imp", imp_options),
+                             ("f_org", org_options), ("f_rem", rem_options)):
+            _prune(key, options)
+
         with c1:
             sel_loc = st.selectbox(
-                "Location", [ALL] + locations,
+                "Location", loc_options,
                 format_func=lambda v: _all_label("locations") if v == ALL else v,
                 key="f_loc",
             )
         with c2:
             sel_imp = st.selectbox(
-                "Importer", [ALL] + importers,
+                "Importer", imp_options,
                 format_func=lambda v: _all_label("importers") if v == ALL else v,
                 key="f_imp",
             )
         with c3:
             sel_org = st.selectbox(
-                "Origin", [ALL] + origins,
+                "Origin", org_options,
                 format_func=lambda v: _all_label("origins") if v == ALL else v,
                 key="f_org",
             )
         with c4:
             sel_rem = st.selectbox(
-                "Remarks", [ALL] + remarks,
+                "Remarks", rem_options,
                 format_func=lambda v: _all_label("remarks") if v == ALL else v,
                 key="f_rem",
             )
@@ -85,17 +115,15 @@ def render(df: pd.DataFrame, quality: pd.DataFrame) -> dict:
                 on_click=_reset_all, args=(default,),
             )
 
-    d = valid[valid["date"] == sel_date].copy()
+    d = base
     if sel_loc != ALL:
         d = d[d["location"] == sel_loc]
     if sel_imp != ALL:
         d = d[d["importer"] == sel_imp]
     if sel_org != ALL:
-        origin_series = d["origin"].replace("", "(unknown)")
-        d = d[origin_series == sel_org]
+        d = d[d["origin"].replace("", "(unknown)") == sel_org]
     if sel_rem != ALL:
-        remark_series = d["remarks"].replace("", "(blank)")
-        d = d[remark_series == sel_rem]
+        d = d[d["remarks"].replace("", "(blank)") == sel_rem]
 
     return {
         "date": sel_date,

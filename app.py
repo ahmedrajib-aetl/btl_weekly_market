@@ -123,7 +123,7 @@ def _dashboard() -> None:
     with row1_right:
         _chart_card(
             "Origin-wise — Avg Stock &amp; Avg Sale Rate",
-            "Bars: average stock per active entry (MT) &middot; "
+            "Bars: average stock per importer (MT) &middot; "
             "Line: weighted avg sale rate (BDT/MT)",
             charts.origin_combo(by_org),
             "chart_origin",

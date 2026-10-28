@@ -284,9 +284,11 @@ def footer() -> str:
     return (
         '<div class="defs"><b>Definitions.</b> Stock = sum of <i>Quantity (MT)</i>. '
         "Avg sale rate = quantity-weighted average of <i>Sale / Retail Rate</i>, "
-        "ignoring zero/blank rates. Avg stock per entry = mean of <i>Quantity</i> over "
-        "entries with stock &gt; 0. Data comes from the Excel <i>Master Database</i> sheet."
-        "<br>Weekly uploads and data health are in the panel below.</div>"
+        "ignoring zero/blank rates. Avg stock / importer = origin stock ÷ importers on "
+        "the selected date. Every number is for the selected date only. Data comes from "
+        "the Excel <i>Master Database</i> sheet."
+        "<br>Type in any filter to search. Weekly uploads and data health are in the "
+        "panel below.</div>"
     )
 
 
